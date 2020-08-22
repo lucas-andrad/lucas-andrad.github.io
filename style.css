@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(29, 170, 180);
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+img{
+    border-radius: 50%;
+    border: 3px solid rgb(20, 117, 124);;
+}
+
+body{
+    text-align: center;
+}
